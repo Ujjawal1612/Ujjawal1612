@@ -12,6 +12,8 @@
 <img src="https://komarev.com/ghpvc/?username=Ujjawal1612&style=flat-square&label=Profile+Views" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/Ujjawal1612?style=flat-square&label=Followers" alt="GitHub followers" />
 <img src="https://img.shields.io/github/stars/Ujjawal1612?style=flat-square&label=Stars" alt="GitHub stars" />
+<a href="https://www.hackerrank.com/profile/ujjawalupadhyay2"><img src="https://img.shields.io/badge/HackerRank-ujjawalupadhyay2-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+</p>
 </p>
 
 <p>
