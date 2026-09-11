@@ -17,27 +17,27 @@
 
 ---
 
-## 👋 About me
+##  About me
 
 Computer Science & Engineering student with a **strong foundation in C++ and DSA**, along with hands-on work in **Python, Data Analytics and Machine Learning**.
 
 I enjoy solving problems, exploring data, and building practical applications from what I learn.
 
-## ⚡ Skills
+##  Skills
 
 **Languages:** C++ • Python • C • SQL  
 **Data & ML:** Pandas • NumPy • Matplotlib • Seaborn • Plotly • Scikit-learn • PyTorch  
 **Development:** Flask • FastAPI • Streamlit • REST APIs  
 **Tools:** Git • GitHub • Jupyter • VS Code • Docker
 
-## 🚀 Projects
+##  Projects
 
 **📈 StockSense** — Market analysis, technical indicators and interactive dashboard  
 **🧬 Cholangiocarcinoma Detection** — Liquid Neural Network & image classification  
 **🎵 Spotify Analysis** — Data analysis and visualization  
 **🎯 Career Advisor** — ML-based career recommendation web application
 
-## 📚 Currently learning
+##  Currently learning
 
 `C++ & DSA` · `Machine Learning` · `Data Analytics` · `MLOps`
 
