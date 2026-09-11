@@ -2,6 +2,8 @@
 
 # Prabhat Upadhyay
 
+### Build → Learn → Improve
+
 <p>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=C%2B%2B;Python;Data+Analysis;Machine+Learning" alt="Skills animation" />
 </p>
@@ -51,9 +53,5 @@ Flask • FastAPI • Streamlit • Git • GitHub • Jupyter • Docker
 <div align="center">
 
 [💻 GitHub](https://github.com/Ujjawal1612) · [🧩 LeetCode](https://leetcode.com/u/Ujjawal1612/) · [💼 LinkedIn](https://www.linkedin.com/in/prabhat-upadhyay-677aa717a/) · [📸 Instagram](https://www.instagram.com/prabhat_.upadhyay/)
-
-<br><br>
-
-`Build → Learn → Improve`
 
 </div>
