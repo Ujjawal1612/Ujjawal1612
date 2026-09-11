@@ -60,7 +60,12 @@ Machine-learning based career recommendation application that uses student profi
 ---
 
 <div align="center">
-
-[💻 GitHub](https://github.com/Ujjawal1612) · [🧩 LeetCode](https://leetcode.com/u/Ujjawal1612/) · [💼 LinkedIn](https://www.linkedin.com/in/prabhat-upadhyay-677aa717a/) · [📸 Instagram](https://www.instagram.com/prabhat_.upadhyay/)
+<p>
+<a href="https://github.com/Ujjawal1612"><img src="https://img.shields.io/badge/GitHub-Ujjawal1612-181717?style=flat-square&logo=github"></a>
+<a href="https://leetcode.com/u/Ujjawal1612/"><img src="https://img.shields.io/badge/LeetCode-Ujjawal1612-FFA116?style=flat-square&logo=leetcode&logoColor=white"></a>
+<a href="https://www.hackerrank.com/profile/ujjawalupadhyay2"><img src="https://img.shields.io/badge/HackerRank-ujjawalupadhyay2-2EC866?style=flat-square&logo=hackerrank&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/prabhat-upadhyay-677aa717a/"><img src="https://img.shields.io/badge/LinkedIn-Prabhat%20Upadhyay-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/prabhat_.upadhyay/"><img src="https://img.shields.io/badge/Instagram-prabhat_.upadhyay-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+</p>
 
 </div>
