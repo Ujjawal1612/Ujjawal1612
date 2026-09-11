@@ -4,11 +4,14 @@
 
 ### C++ • Python • Data Analytics • Machine Learning
 
-Building practical projects, learning by doing, and improving one repository at a time.
+`Build → Learn → Improve`
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ujjawal1612-181717?style=flat-square&logo=github)](https://github.com/Ujjawal1612)
-[![Python](https://img.shields.io/badge/Python-Projects-3776AB?style=flat-square&logo=python&logoColor=white)](https://github.com/Ujjawal1612)
-[![C++](https://img.shields.io/badge/C%2B%2B-Strong%20Foundation-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://github.com/Ujjawal1612)
+<p>
+<a href="https://github.com/Ujjawal1612"><img src="https://img.shields.io/badge/GitHub-Ujjawal1612-181717?style=flat-square&logo=github"></a>
+<a href="https://leetcode.com/u/Ujjawal1612/"><img src="https://img.shields.io/badge/LeetCode-Ujjawal1612-FFA116?style=flat-square&logo=leetcode&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/prabhat-upadhyay-677aa717a/"><img src="https://img.shields.io/badge/LinkedIn-Prabhat%20Upadhyay-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="https://www.instagram.com/prabhat_.upadhyay/"><img src="https://img.shields.io/badge/Instagram-prabhat_.upadhyay-E4405F?style=flat-square&logo=instagram&logoColor=white"></a>
+</p>
 
 </div>
 
@@ -16,39 +19,34 @@ Building practical projects, learning by doing, and improving one repository at 
 
 ## 👋 About me
 
-Computer Science & Engineering student with a strong foundation in **C++ and problem solving**, and hands-on experience building projects with **Python, Data Analytics and Machine Learning**.
+Computer Science & Engineering student with a **strong foundation in C++ and DSA**, along with hands-on work in **Python, Data Analytics and Machine Learning**.
 
-I like understanding how things work, building small systems from scratch, and turning what I learn into working projects.
+I enjoy solving problems, exploring data, and building practical applications from what I learn.
 
-## 🛠️ Tech I use
+## ⚡ Skills
 
 **Languages:** C++ • Python • C • SQL  
-**Data:** Pandas • NumPy • Matplotlib • Seaborn • Plotly  
-**ML/DL:** Scikit-learn • PyTorch • LNN • Image Classification  
+**Data & ML:** Pandas • NumPy • Matplotlib • Seaborn • Plotly • Scikit-learn • PyTorch  
 **Development:** Flask • FastAPI • Streamlit • REST APIs  
 **Tools:** Git • GitHub • Jupyter • VS Code • Docker
 
-## 🚀 Selected work
+## 🚀 Projects
 
-| Project | Focus |
-|---|---|
-| [📈 StockSense](https://github.com/Ujjawal1612/real-time-stock-market-dashboard) | Market analysis, technical indicators & dashboard |
-| [🧬 LNN Cancer Detection](https://github.com/Ujjawal1612/Cholangiocarcinoma_detection-LiquidNeuralNetwork) | PyTorch, Liquid Neural Network & image classification |
-| [🎵 Spotify Analysis](https://github.com/Ujjawal1612/Spotify) | Data analysis & visualization |
-| [🎯 Career Advisor](https://github.com/Ujjawal1612/career-advisor) | ML-based career recommendation web app |
+**📈 StockSense** — Market analysis, technical indicators and interactive dashboard  
+**🧬 Cholangiocarcinoma Detection** — Liquid Neural Network & image classification  
+**🎵 Spotify Analysis** — Data analysis and visualization  
+**🎯 Career Advisor** — ML-based career recommendation web application
 
-## 📚 Currently working on
+## 📚 Currently learning
 
-`C++ & DSA` · `Machine Learning` · `Data Analytics` · `ML Applications` · `MLOps fundamentals`
-
-## 🤝 Connect
-
-📧 [Email](mailto:ujjawalupadhyay3dworld@gmail.com) · 💻 [GitHub](https://github.com/Ujjawal1612) · 📸 [Instagram](https://www.instagram.com/Ujjawal__upadhyay/)
+`C++ & DSA` · `Machine Learning` · `Data Analytics` · `MLOps`
 
 ---
 
 <div align="center">
 
-**Build → Learn → Improve**
+### Find me online
+
+[💻 GitHub](https://github.com/Ujjawal1612) · [🧩 LeetCode](https://leetcode.com/u/Ujjawal1612/) · [💼 LinkedIn](https://www.linkedin.com/in/prabhat-upadhyay-677aa717a/) · [📸 Instagram](https://www.instagram.com/prabhat_.upadhyay/)
 
 </div>
