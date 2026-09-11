@@ -25,13 +25,13 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Computer Science & Engineering student with a **strong foundation in C++ and DSA**, along with hands-on experience in **Python, Data Analysis and Machine Learning**. I enjoy solving problems, working with data and turning ideas into practical applications.
 
 **Focus:** Problem Solving • Data Analysis • Machine Learning • Software Development
 
-## 🚀 Projects
+##  Projects
 
 ### 📈 [StockSense](https://github.com/Ujjawal1612/real-time-stock-market-dashboard)
 Market analysis and monitoring application with technical indicators, interactive Plotly charts and a Streamlit dashboard for exploring stock trends and market information.
@@ -45,7 +45,7 @@ Python data analysis project exploring Spotify audio features such as **energy, 
 ### 🎯 [Career Advisor](https://github.com/Ujjawal1612/career-advisor)
 Machine-learning based career recommendation application that uses student profile information to predict suitable career paths through a Flask web application.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages:** C++ • Python • C • SQL  
 **Data Analysis:** Pandas • NumPy • Matplotlib • Seaborn • Plotly  
@@ -53,7 +53,7 @@ Machine-learning based career recommendation application that uses student profi
 **Development:** Flask • FastAPI • Streamlit • REST APIs  
 **Tools:** Git • GitHub • Jupyter • VS Code • Docker
 
-## 📚 Currently Learning
+##  Currently Learning
 
 `C++ & DSA` · `Machine Learning` · `Data Analysis` · `MLOps`
 
