@@ -25,26 +25,26 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 Computer Science & Engineering student with a **strong foundation in C++ and DSA**, along with hands-on experience in **Python, Data Analysis and Machine Learning**.
 
 I enjoy solving problems, working with data and building practical applications.
 
-## 🚀 Projects
+##  Projects
 
 **📈 [StockSense](https://github.com/Ujjawal1612/real-time-stock-market-dashboard)** — Market analysis, technical indicators & interactive dashboard  
 **🧬 [Cholangiocarcinoma Detection](https://github.com/Ujjawal1612/Cholangiocarcinoma_detection-LiquidNeuralNetwork)** — Liquid Neural Network & image classification  
 **🎵 [Spotify Analysis](https://github.com/Ujjawal1612/Spotify)** — Data analysis & visualization  
 **🎯 [Career Advisor](https://github.com/Ujjawal1612/career-advisor)** — ML-based career recommendation web application
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **C++** • **Python** • C • SQL  
 Pandas • NumPy • Matplotlib • Seaborn • Plotly • Scikit-learn • PyTorch  
 Flask • FastAPI • Streamlit • Git • GitHub • Jupyter • Docker
 
-## 📚 Currently Learning
+##  Currently Learning
 
 `C++ & DSA` · `Machine Learning` · `Data Analysis` · `MLOps`
 
